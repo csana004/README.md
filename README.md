@@ -16,20 +16,20 @@ I am a **undergraduate student** and a highly motivated developer passionate abo
 
 ## 🔥 Featured Projects
 
-### 🤖 [JarvisAI — Agentic AI Assistant](https://github.com/csana004/jarvisai)
+### 🤖 JarvisAI (Agentic AI Assistant)
 * **The Goal:** Move beyond chat to autonomous behavior.
 * **Features:** Multi-tool reasoning, planning, and task execution using LLM orchestration.
 * **Tech:** `Python`, `LangChain/Frameworks`, `OpenAI/Anthropic APIs`.
 
-### 📚 AI Teacher / Tutor Bot (RAG)
-* **The Goal:** A structured, interactive learning assistant for students.
-* **Features:** Step-by-step explanations and quizzes based on PDF uploads via RAG.
-* **Tech:** `LLMs`, `Vector DBs`, `Flask`, `React`, `TTS`.
+### 📰 Article Analyzer (GenAI + NLP)
+* **The Goal:** Automatically analyze and extract meaningful insights from articles and documents.
+* **Features:** LLM-based summarization, key-point extraction, sentiment analysis, and semantic Q&A.
+* **Tech:** `LLMs`, `NLP`, `Python`, `Flask`, `Vector DBs`, `RAG`.
 
-### 🌱 Intelligent Grass-Cutting Robot (AI + IoT)
-* **The Goal:** Precision agriculture using computer vision.
-* **Features:** YOLO-based plant detection, GPS tracking, and IoT cloud monitoring.
-* **Tech:** `YOLO`, `OpenCV`, `Raspberry Pi`, `ThingSpeak`.
+### 🌦️ Wheat (Real-Time Weather Visualization)
+* **The Goal:** Provide accurate, real-time weather information through an intuitive interface.
+* **Features:** Live weather updates, condition-based UI changes, and location-aware forecasts.
+* **Tech:** `Weather APIs`, `JavaScript`, `React`, `REST APIs`.
 
 ---
 
